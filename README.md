@@ -4,4 +4,6 @@ These scripts have been written to read and analyze MEG data. I've commented the
 
 There are quite a few places where there's room for improvement: function and variable naming, reducing redundacy, improving efficiency and so on. 
 
-- Lola
+
+
+Lola
